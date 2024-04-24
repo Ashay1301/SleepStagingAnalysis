@@ -1,4 +1,4 @@
-# SleepStagingAnalysis
+# Sleep Staging Analysis
 Deep Neural Model for Automated Sleep Staging System using Single-Channel EEG Signal
 Introduced a CNN-LSTM network for automated sleep staging using single-channel EEG signals. The model
 addresses data imbalance and achieves high classification performance on a healthy population dataset. It
