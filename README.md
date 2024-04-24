@@ -4,7 +4,7 @@ Deep Neural Model for Automated Sleep Staging System using Single-Channel EEG Si
 
 
 An efficient deep learning model for sleep stage scoring based on raw, single-channel EEG.
-[[paper]((https://link.springer.com/chapter/10.1007/978-981-19-6525-8_6))]
+[[paper](https://link.springer.com/chapter/10.1007/978-981-19-6525-8_6)]
 
 
 
